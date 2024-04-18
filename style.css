@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+    font-family: "Poppins", sans-serif;
+
+}
+body{
+    display:flex;
+   background: slategray;
+   justify-content: center;
+   margin-top:300px;
+}
+.Login{
+    border:3px solid;
+    padding: 20px;
+    color:red;
+}
+.input-box1{
+    border-radius: 10px;
+}
